@@ -1,11 +1,11 @@
 {
   "mappings": [
-    "/content/ue-experimentation/:/",
-    "/content/ue-experimentation/configuration:/.helix/config.json",
-    "/content/ue-experimentation/metadata:/metadata.json"
+    "/content/ue-experimentation-demo/:/",
+    "/content/ue-experimentation-demo/configuration:/.helix/config.json",
+    "/content/ue-experimentation-demo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/ue-experimentation/",
+    "/content/ue-experimentation-demo/",
     "/content/test/"
   ]
 }
