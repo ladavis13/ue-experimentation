@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    # url: "https://author-p135230-e1506617.adobeaemcloud.com/bin/franklin.delivery/ladavis13/ue-experimentation-demo/main"
-    url: "https://localhost:4502/bin/franklin.delivery/sudo-buddy/test/main"
+    # url: "https://author-p135230-e1506617.adobeaemcloud.com/bin/franklin.delivery/ladavis13/ue-experimentation/main"
+    url: "https://localhost:4502/bin/franklin.delivery/ladavis13/test/main"
     type: "markup"
     suffix: ".html"
